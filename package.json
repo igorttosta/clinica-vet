@@ -1,0 +1,9 @@
+{
+  "name": "clinica-vet",
+  "private": true,
+  "scripts": {
+    "dev:front": "pnpm --filter frontend dev",
+    "dev:back": "pnpm --filter backend dev",
+    "build:front": "pnpm --filter frontend build"
+  }
+}
